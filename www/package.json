@@ -1,0 +1,11 @@
+{
+  "name": "www",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "serve"
+  },
+  "packageManager": "pnpm@10.22.0",
+  "devDependencies": {
+    "serve": "^14.2.5"
+  }
+}
